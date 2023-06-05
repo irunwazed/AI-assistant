@@ -1,0 +1,13 @@
+.env
+node_modules
+
+utils/__pycache__
+
+input.wav
+output.mp3
+test.wav
+
+v2_lj.pt
+model.pt
+
+config.py
